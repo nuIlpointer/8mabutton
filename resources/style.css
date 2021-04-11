@@ -56,3 +56,7 @@ body {
     user-select: none;
     color: #666
 }
+
+#content {
+    margin-bottom: 30px;
+}
